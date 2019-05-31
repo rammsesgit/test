@@ -1,0 +1,14 @@
+{
+  "name": "circleci",
+  "version": "1.0.0",
+  "description": "Test circleci",
+  "main": "sketch.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "author": "Isar Ramses Cadena Gaona",
+  "license": "ISC",
+  "devDependencies": {
+    "jest": "^24.8.0"
+  }
+}
