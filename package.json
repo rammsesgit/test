@@ -7,7 +7,7 @@
     "test": "jest"
   },
   "author": "Isar Ramses Cadena Gaona",
-  "license": "ISC",
+  "license": "MIT",
   "devDependencies": {
     "jest": "^24.8.0"
   }
